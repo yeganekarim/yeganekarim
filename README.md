@@ -23,7 +23,7 @@ Here are some of the projects I'm currently working on:
 ---
 
 ### 📫 How to reach me:
-- LinkedIn: [Yegane Karim](www.linkedin.com/in/yegane-karim-43288a337)
+- LinkedIn: [Yegane Karim](https://www.linkedin.com/in/yegane-karim-43288a337)
 - Location: Tehran, Iran
 
 (Always learning, always exploring data!)*
